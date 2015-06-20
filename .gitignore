@@ -1,2 +1,10 @@
 /local.properties
 /gradle.properties
+.idea/gradle.xml
+.idea/workspace.xml
+.idea/misc.xml
+.idea/libraries/support_annotations_22_2_0.xml
+.idea/libraries/appcompat_v7_22_2_0.xml
+.idea/compiler.xml
+.gradle
+.idea
